@@ -30,6 +30,15 @@ A real-time multiplayer Mafia-style party game built with modern web technologie
 
 ---
 
+## Local Setup
+
+1. Install dependencies:
+   npm install
+2. Run the development server:
+   npm run dev
+3. Open:
+   http://localhost:3000
+
 ## Environment Variables
 
 Create a `.env.local` file in the root:
